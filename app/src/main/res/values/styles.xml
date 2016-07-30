@@ -1,0 +1,39 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+    </style>
+    <style name="Functions">
+        <item name="android:textSize">40dp</item>
+        <item name="android:paddingTop">30dp</item>
+        <item name="android:paddingLeft">23dp</item>
+        <item name="android:paddingRight">18dp</item>
+        <item name="android:paddingBottom">20dp</item>
+        <item name="android:background">@android:color/darker_gray</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:fontFamily">sans-serif-thin</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+    <style name="Numbers">
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textSize">40dp</item>
+        <item name="android:paddingTop">30dp</item>
+        <item name="android:paddingRight">30dp</item>
+        <item name="android:paddingLeft">30dp</item>
+        <item name="android:paddingBottom">20dp</item>
+        <item name="android:background">#d3d3d3</item>
+        <item name="android:fontFamily">sans-serif-thin</item>
+    </style>
+    <style name="Operations">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textSize">40dp</item>
+        <item name="android:paddingTop">30dp</item>
+        <item name="android:paddingBottom">20dp</item>
+        <item name="android:paddingLeft">30dp</item>
+        <item name="android:paddingRight">30dp</item>
+        <item name="android:background">#FFA500</item>
+        <item name="android:fontFamily">sans-serif-thin</item>
+    </style>
+</resources>
